@@ -353,5 +353,10 @@
         "name": "pledgors.registry",
         "description": "Реестр наборщиков залоговых ТС",
         "enabled": true
+    },
+    {
+        "name": "diagnostic.cards.eko",
+        "description": "Диагностические карты Экосмотр",
+        "enabled": true
     }
 ]
