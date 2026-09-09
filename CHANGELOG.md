@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 - Field with path `diagnostic_cards.items[].date.from` also fillable by `diagnostic.cards.eko`
 - Field with path `diagnostic_cards.items[].date.to` also fillable by `diagnostic.cards.eko`
 - Field with path `diagnostic_cards.items[].doc.number` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].doc.type` also fillable by `diagnostic.cards.eko`
 - Field with path `diagnostic_cards.items[].inspection.place` also fillable by `diagnostic.cards.eko`
 - Field with path `diagnostic_cards.items[].reg_num` also fillable by `diagnostic.cards.eko`
 - Field with path `diagnostic_cards.items[].actuality.date` also fillable by `diagnostic.cards.eko`

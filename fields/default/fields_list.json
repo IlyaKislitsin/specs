@@ -1482,7 +1482,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
