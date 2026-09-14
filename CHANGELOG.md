@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Added
+
+- Source `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].date.from` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].date.to` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].doc.number` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].doc.type` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].inspection.place` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].reg_num` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.items[].actuality.date` also fillable by `diagnostic.cards.eko`
+- Field with path `diagnostic_cards.date.update` also fillable by `diagnostic.cards.eko`
+- Field with path `mileages.items[].date.event` also fillable by `diagnostic.cards.eko`
+- Field with path `mileages.items[].mileage` also fillable by `diagnostic.cards.eko`
+- Field with path `mileages.items[].actuality.date` also fillable by `diagnostic.cards.eko`
+
 ## v5.31.0
 
 ### Added

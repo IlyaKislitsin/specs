@@ -1435,7 +1435,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1446,7 +1447,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1468,7 +1470,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1479,7 +1482,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1490,7 +1494,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1501,7 +1506,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1512,7 +1518,8 @@
         ],
         "fillable_by": [
             "eaisto.registry",
-            "gibdd.eaisto"
+            "gibdd.eaisto",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -1523,7 +1530,8 @@
         ],
         "fillable_by": [
             "gibdd.eaisto",
-            "eaisto.registry"
+            "eaisto.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -6267,7 +6275,8 @@
             "service.history.wilgood",
             "eaisto.registry",
             "repairs.history.registry",
-            "autobase.repairs.history.registry"
+            "autobase.repairs.history.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -6287,7 +6296,8 @@
             "service.history.wilgood",
             "eaisto.registry",
             "repairs.history.registry",
-            "autobase.repairs.history.registry"
+            "autobase.repairs.history.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
@@ -6315,7 +6325,8 @@
             "service.history.wilgood",
             "eaisto.registry",
             "repairs.history.registry",
-            "autobase.repairs.history.registry"
+            "autobase.repairs.history.registry",
+            "diagnostic.cards.eko"
         ]
     },
     {
